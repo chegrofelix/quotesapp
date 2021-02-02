@@ -1,0 +1,21 @@
+.quote-area {
+    height: 100px;
+    width: 400px;
+}
+
+label {
+    color: skyblue;
+    font-size: 20px;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+.row {
+    text-align: center;
+}
+button{
+    color: yellow;
+    background-color: #493323;
+}
